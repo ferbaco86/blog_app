@@ -36,8 +36,8 @@ Simple blog application created using Ruby on Rails
 
 👤 **Fernando Bahamondes**
 
-- Github: [@LoboArkano](https://github.com/ferbaco86)
-- Twitter: [@LoboArcano92](https://twitter.com/ferbac0)
+- Github: [@ferbaco86](https://github.com/ferbaco86)
+- Twitter: [@ferbac0](https://twitter.com/ferbac0)
 - Linkedin: [linkedin](https://www.linkedin.com/in/fernando-bahamondes-correa)
 
 ## 🤝 Contributing
